@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Poppins&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+a,
+button {
+  font-family: 'Neucha', cursive;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
 /* Box sizing rules */
 *,
 *::before,
